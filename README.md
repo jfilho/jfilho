@@ -1,16 +1,16 @@
-### Hi there 👋
+<h2 align="center">Hello there! My name is José Carlos 👋🤓</h2>
 
-<!--
-**jfilho/jfilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## ⚡ Domains
+- PHP
+- Kotlin
+- Python
+- Go
+- Docker
+- Cloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## ⚡ My GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=nidr0x&ishow_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true" alt="nidr0x" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidr0x&layout=compact&theme=dark" /> 
