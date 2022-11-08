@@ -33,3 +33,7 @@
   <a href="https://www.linkedin.com/in/jos%C3%A9-carlos-ferreira-filho-93b36130" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:carlos@uppersystem.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+##
+
+![Profile Views](https://komarev.com/ghpvc/?username=pedro-m-correia)
